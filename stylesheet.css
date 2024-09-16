@@ -1,39 +1,39 @@
 h1 {
-    color: rgb(255, 77, 77);
-    text-align: center;
-    font-size: 55px;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: aliceblue;
+    color: rgb(255, 77, 77); /*Specifies what colour the title is*/
+    text-align: center; /*Centers the text*/
+    font-size: 55px; /*Justifyes the size of the title*/
+    font-family: Arial, Helvetica, sans-serif; /*Sets the font of the title*/
+    background-color: aliceblue; /*Background color of title*/
 }
 
 p {
-    color: aliceblue;
-    text-align: center;
-    font-size: 20px;
+    color: aliceblue; /*Specifies what color the main text is*/
+    text-align: center; /*Centers the main text*/
+    font-size: 20px; /*Sets size of main text*/
 }
 
 img {
-    max-width: 22%;
+    max-width: 22%; /*Sets size of logo*/
     height: auto;
     align-items: center;
-    display: block;
+    display: block; /*Display and margin centers th logo*/
     margin-left: auto;
     margin-right: auto;
   }
 
   body {
-    background-color:darkslategrey;
+    background-color:darkslategrey; /*Backgound color of page*/
   }
 
   button {
-    background-color: #04AA6D; /* Green */
-    border: none;
+    background-color: #04AA6D; /* Makes button green and what not*/
+    border: none; /*I'm getting tired of making comments*/
     color: white;
     padding: 16px 32px;
-    text-align: center;
+    text-align: center; /*Aligns button text to center*/
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 16px; /* Sets size of button text*/
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
